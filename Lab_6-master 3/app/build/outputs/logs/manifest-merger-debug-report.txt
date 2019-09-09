@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/41c70d04e3e582dea8205da17e0dc674/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0ce5c0e5209abfa4189fa71f04141515/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/5eb2760d1e377a870dfe957fa7f72b56/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/ce82ba363dba8ebe0ad7321fc3cb2117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d3e6c889cb41d020decbff93fdd14df6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/e9d279ce8c103bd775a2274e75eb4d52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/538d052a92fdff78bc6c11c7b341b21f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/da0de217cccc5f837baaee43b0054bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2f7627c7eb30103d2a19e27f198969bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/bb6029787574b9b0cf6ae2c92d331487/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a31ca0d3ac6ad967b487647066ced7f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/6872dc9eec0081fcb86d97ac7eb6a409/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2e0bc235d88d3a8874c477a19d494797/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d84f96a3ad4fe5e33232f5b1a859cb36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/28b3b4f0ff6055e3fe7547488d28f57e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/117ab91e1de311ba00eed9226f66464c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/616ceb2e9a3c871af389c8043a41cba5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/89e53ddc322e1476a3f3e192c731cb8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b8dba403e7d8eb41160b5cf3038950da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13fb3685c786cbd6af614b684d2089b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/055527efffdc348a987776056c5c8b2f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a520f44a9090a0f42764e256d64e2462/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13331fb51e9ba84b7c0d844086d2e760/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b52a43961e7a2b715084c2ea2183237d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/35c87232d17ac79310a607c451f2b3a8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:1-11:12
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:4:5-10:43
+MERGED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/28b3b4f0ff6055e3fe7547488d28f57e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/28b3b4f0ff6055e3fe7547488d28f57e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/41c70d04e3e582dea8205da17e0dc674/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/41c70d04e3e582dea8205da17e0dc674/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0ce5c0e5209abfa4189fa71f04141515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0ce5c0e5209abfa4189fa71f04141515/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/5eb2760d1e377a870dfe957fa7f72b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/5eb2760d1e377a870dfe957fa7f72b56/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/ce82ba363dba8ebe0ad7321fc3cb2117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/ce82ba363dba8ebe0ad7321fc3cb2117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d3e6c889cb41d020decbff93fdd14df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d3e6c889cb41d020decbff93fdd14df6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/e9d279ce8c103bd775a2274e75eb4d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/e9d279ce8c103bd775a2274e75eb4d52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/538d052a92fdff78bc6c11c7b341b21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/538d052a92fdff78bc6c11c7b341b21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/da0de217cccc5f837baaee43b0054bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/da0de217cccc5f837baaee43b0054bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2f7627c7eb30103d2a19e27f198969bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2f7627c7eb30103d2a19e27f198969bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/bb6029787574b9b0cf6ae2c92d331487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/bb6029787574b9b0cf6ae2c92d331487/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a31ca0d3ac6ad967b487647066ced7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a31ca0d3ac6ad967b487647066ced7f8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/6872dc9eec0081fcb86d97ac7eb6a409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/6872dc9eec0081fcb86d97ac7eb6a409/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2e0bc235d88d3a8874c477a19d494797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/2e0bc235d88d3a8874c477a19d494797/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d84f96a3ad4fe5e33232f5b1a859cb36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/d84f96a3ad4fe5e33232f5b1a859cb36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/0c5511486d0e4f6353425c18fc2b3ea0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/28b3b4f0ff6055e3fe7547488d28f57e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/28b3b4f0ff6055e3fe7547488d28f57e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/117ab91e1de311ba00eed9226f66464c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/117ab91e1de311ba00eed9226f66464c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/616ceb2e9a3c871af389c8043a41cba5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/616ceb2e9a3c871af389c8043a41cba5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/89e53ddc322e1476a3f3e192c731cb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/89e53ddc322e1476a3f3e192c731cb8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b8dba403e7d8eb41160b5cf3038950da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b8dba403e7d8eb41160b5cf3038950da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13fb3685c786cbd6af614b684d2089b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13fb3685c786cbd6af614b684d2089b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/055527efffdc348a987776056c5c8b2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/055527efffdc348a987776056c5c8b2f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a520f44a9090a0f42764e256d64e2462/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/a520f44a9090a0f42764e256d64e2462/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13331fb51e9ba84b7c0d844086d2e760/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/13331fb51e9ba84b7c0d844086d2e760/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b52a43961e7a2b715084c2ea2183237d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/andychen/.gradle/caches/transforms-2/files-2.1/b52a43961e7a2b715084c2ea2183237d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/35c87232d17ac79310a607c451f2b3a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/andychen/.gradle/caches/transforms-2/files-2.1/35c87232d17ac79310a607c451f2b3a8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/andychen/Downloads/Lab_6-master 3/app/src/main/AndroidManifest.xml
